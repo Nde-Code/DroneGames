@@ -3,6 +3,7 @@ DroneGames est un simple jeux en 2D. Fait avec C# et Visual Studio.
 
 # Documentation + information sur le projet:
 
+(Ceci est un copier/coller du "read-me" dans le .zip lors du téléchargement.)
 
 Si votre antivirus déclenche: C'est parce que le programme ne reconnaît pas une signature digitale officielle valide. Si vous doutez, n'exécuter pas le programme, ou utilisé une machine virtuelle.Vous pouvez également faire une analyse sur Virustotal.
 
