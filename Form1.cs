@@ -14,7 +14,7 @@ using System.Timers;
 // Score: ScoreInfo
 // drone: Mplayer
 
-// Ce jeu à été à 100% inventer par @Ndebilloez sur twitter, (02/05/2021).
+// Ce jeu à été à 100% inventer par @Ndebilloez sur twitter.
 // @NDebilloez est l'auteur original de ce jeux.
 
 namespace DroneGames
