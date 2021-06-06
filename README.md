@@ -6,6 +6,10 @@ DroneGames est un simple jeux en 2D. Fait avec C# et Visual Studio.
 J'ai décidé de le mettre comme tous mes projets en anglais, et ici au pluriel.
 Pourquoi et bien la réponse est simple: parce que !
 
+# Le code:
+
+Les fichiers avec le code sont tous les fichiers avec l'extension .cs, les autres sont pour configurer .NET et Visual Studio.
+
 # Documentation + information sur le projet:
 
 (Ceci est un copier/coller du "read-me" dans le .zip lors du téléchargement.)
