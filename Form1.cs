@@ -140,7 +140,6 @@ namespace DroneGames
 
             this.Controls.Add(battery);
 
-            // a chaque collect de batterie, le batteryCount doit être placer à 0
         }
 
         private void isUpKey(object sender, KeyEventArgs e)
