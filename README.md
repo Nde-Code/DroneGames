@@ -5,6 +5,10 @@ DroneGames est un simple jeux en 2D. Fait avec C# et Visual Studio.
 
 Pour télécharger ce petit jeu, allez sur mon site, et scroller jusqu'à trouver le titre DroneGames.
 
+# Image:
+
+![alt text](https://github.com/Nde-Code/DroneGames/blob/main/screen.PNG)
+
 # Le nom:
 
 J'ai décidé de le mettre comme tous mes projets en anglais, et ici au pluriel.
