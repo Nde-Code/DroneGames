@@ -3,7 +3,7 @@ DroneGames est un simple jeux en 2D. Fait avec C# et Visual Studio.
 
 # Téléchargement
 
-Pour télécharger ce petit jeu, allez sur mon site, et scroller jusqu'à trouver le titre DroneGames.
+Pour télécharger ce petit jeu, allez sur mon site, et scroller jusqu'à trouver le titre DroneGames. Où, allez dans le fichier installer/DroneGames.exe.
 
 # Image:
 
