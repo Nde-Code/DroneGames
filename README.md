@@ -80,4 +80,4 @@ Le reste est fait par moi, il n'y a aucune librairie, ou dépendances complémen
 
 Conclusion.
 
-Vous avez maintenant compris pourquoi je voulais que vous lisiez cet article avant de télécharger le jeu. Ce jeu est petit, ne vaut rien, mais il s'agit d'un projet que j'ai, et c'est ce qui me permet d'apprendre des nouveaux languages de programmation, ainsi que d'autres domaine dans le secteur de l'IT. Des petits projets comme celui-là, j'en ai plein, et je vais continuer à les héberger sur mon site. J'espère que ce jeu vos oqupera. Je vous souhaite un bon jeu.
+Vous avez maintenant compris pourquoi je voulais que vous lisiez cet article avant de télécharger le jeu. Ce jeu est petit, ne vaut rien, mais il s'agit d'un projet que j'ai, et c'est ce qui me permet d'apprendre des nouveaux languages de programmation, ainsi que d'autres domaine dans le secteur de l'IT. Des petits projets comme celui-là, j'en ai plein, et je vais continuer à les héberger sur mon site. J'espère que ce jeu vos occupera. Je vous souhaite un bon jeu.
