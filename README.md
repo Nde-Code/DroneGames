@@ -20,10 +20,6 @@ Les fichiers avec le code sont tous les fichiers avec l'extension .cs, les autre
 
 # Documentation + information sur le projet:
 
-Documentation en ligne: https://github.com/Nde-Code/DroneGames/blob/main/README.md
-
-Si votre antivirus déclenche: C'est parce que le programme ne reconnaît pas une signature digitale officielle valide. Si vous doutez, n'exécuter pas le programme, ou utilisé une machine virtuelle.Vous pouvez également faire une analyse sur Virustotal.
-
 (Au départ je voulais mettre cet article sur ma section blog, mais je trouvais cela ridicule, en soi texte ne doit intéresser que ceux qui le téléchargent) 
 
 Si vous désirez partager ce jeu avec d'autres, créditez-moi, et donnait le lien vers mon site. C'est obligatoire. Ne me volez pas ce que je fais j'ai des dizaines de preuves dans tout ce que je publie, qui me permette de pouvoir affirmer que ses moi qui l'ai est fait. En éxécutant ce jeu tu accepte tout cela !!
