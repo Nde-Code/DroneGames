@@ -24,11 +24,6 @@ Les fichiers avec le code sont tous les fichiers avec l'extension .cs, les autre
 
 Si vous désirez partager ce jeu avec d'autres, créditez-moi, et donnait le lien vers mon site. C'est obligatoire. Ne me volez pas ce que je fais j'ai des dizaines de preuves dans tout ce que je publie, qui me permette de pouvoir affirmer que ses moi qui l'ai est fait. En éxécutant ce jeu tu accepte tout cela !!
 
-Introduction:
- 
-
-Bon, comme vous l'avez peut-être vu(e), j'ai créé un petit jeu en 2D, que j'ai placer dans ma section projets. Mais si je fais cet article, c'est que j'ai un tas de choses à dire concernant ce projet (liscnse, info, etc...), ainsi que sont avenir. Bon tout d'abord, concernant sa construction, c'est un jeux qui est fait en C#, dans visual studio.
-
 Régles, But et Contrôl.
  
 
