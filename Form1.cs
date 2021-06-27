@@ -420,7 +420,7 @@ namespace DroneGames
             monsterPicture.Image = Properties.Resources.monster;
             monsterPicture.Tag = "monster";
             monsterPicture.Left = number.Next(0, this.ClientSize.Width - 200);
-            monsterPicture.Top = 500;
+            monsterPicture.Top = 510;
 
             monsterL.Add(monsterPicture);
             this.Controls.Add(monsterPicture);
