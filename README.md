@@ -7,7 +7,7 @@ Pour télécharger ce petit jeu, allez sur mon site, et scroller jusqu'à trouve
 
 # Image:
 
-![alt text](https://github.com/Nde-Code/DroneGames/blob/main/screen.PNG)
+![alt text](https://i.ibb.co/zbM5Vcm/game.png)
 
 # Le nom:
 
