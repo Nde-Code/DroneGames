@@ -64,5 +64,9 @@ Les images que j'ai utilisées ne viennent pas toutes de moi, mis appart l'herbe
 
 Le reste est fait par moi, il n'y a aucune librairie, ou dépendances complémentaires. J'espère n'avoir rien oublié, si cela est le cas, cet documentation sera mis à jour dans les plus brefs délais.
 
+# License:
+
+À obligatoirement respecter: GNU General Public License v3.0
+
  
  
