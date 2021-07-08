@@ -62,6 +62,8 @@ Les images que j'ai utilisées ne viennent pas toutes de moi, mis appart l'herbe
 
 Le reste est fait par moi, il n'y a aucune librairie, ou dépendances complémentaires. J'espère n'avoir rien oublié, si cela est le cas, cet documentation sera mis à jour dans les plus bref délais.
 
+Ce projet m'a permis d'acquérir une base (avec .NET, visual studio et aussi, le monde du développement du jeu vidéo). De ce fait je compte bien encore créer des petits jeux dans ce style par la suite.
+
 # Licence:
 
 À obligatoirement respecter: GNU General Public License v3.0
