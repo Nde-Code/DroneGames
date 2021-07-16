@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -112,14 +112,6 @@ namespace DroneGames
             {
                 replay();
             }
-            // get coord by player
-            /*if(e.KeyCode == Keys.Enter)
-            {
-                X = Mplayer.Left + (Mplayer.Width / 2);
-                Y = Mplayer.Top + (Mplayer.Width / 2);
-
-                Console.WriteLine($"x = {X} et y = {Y}");
-            }*/
         }
         private void spawnBattery()
         {
@@ -280,7 +272,7 @@ namespace DroneGames
                         monsterSp = 4;
                         this.Controls.Remove(entityBat);
                         ((PictureBox)entityBat).Dispose();
-                        batteryLevel += 60;
+                        batteryLevel += 71;
                         speedPlayer = 10;
                     }
                 }
