@@ -22,7 +22,7 @@ Les fichiers avec le code sont tous les fichiers avec l'extension .cs, les autre
 
 Si vous désirez partager ce jeu avec d'autres, créditez-moi, et donnait le lien vers mon site. C'est obligatoire. Ne me volez pas ce que je fais j'ai des dizaines de preuves dans tout ce que je publie, qui me permette de pouvoir affirmer que ses moi qui l'ai est fait. En éxécutant ce jeu tu accepte tout cela !!
 
-Régles, But et Contrôl.
+## Régles, But et Contrôl.
  
 
 Le but du jeu est simple, tuer tous les petits monstres avant qu'il ne travers l'arène, sinon vous perdez des points. Lorsque vous tirez, vous perdez de la batterie, et vous devez aller en rechercher à un endroit aléatoire sur les blocs gris, sans les toucher sinon vous perdez des vies, et vous êtes téléporté au centre. De plus, si vous touchez des petits monstres, vous perdez également des vies. Une fois que vous n'avez plus de PV, la partie s'arrête, et vous devez appuyer sur la touche P pour relancer le jeu. Pour monter, appuyer la le flèche vers le haut de votre clavier, pour descendre, sur la flèche du bas, pour aller à gauche, appuyez sur la flèche vers la gauche, et pour aller à droite, appuyez sur la flèche vers la droite. Vous devez être mobile sinon vous perdez également des vies. 
