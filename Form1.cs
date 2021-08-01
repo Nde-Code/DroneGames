@@ -22,7 +22,7 @@ using System.Timers;
 // Bar d'energie: EGet
 // Bar de vie: HealthGet
 // Score: ScoreInfo
-// drone: Mplayer
+// Drone: Mplayer
 
 namespace DroneGames
 {
