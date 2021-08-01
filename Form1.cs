@@ -28,9 +28,6 @@ namespace DroneGames
         int stopSpawn = 0;
         int batteryCount = 0;
 
-        //int X;
-        //int Y;
-
         int[] posXRandom = {
           700,
           290,
@@ -211,8 +208,6 @@ namespace DroneGames
             else
             {
                 end = true;
-                //batteryLevel = 100;
-                //PlayerPv = 100;
                 stopGame();
             }
 
