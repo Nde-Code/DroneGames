@@ -30,10 +30,7 @@ Le but du jeu est simple, tuer tous les petits monstres avant qu'il ne travers l
 
 ## Licence et Informations sur les graphismes:
  
-
 Les images que j'ai utilisées ne viennent pas toutes de moi, mis appart l'herbe et la pierre, le reste est tiré d'un site qui s'appelle FlatIcon:
-
- 
 
 - Le drone par Freepik: https://www.freepik.com.
 
