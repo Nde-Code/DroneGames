@@ -1,3 +1,13 @@
+/*
+  _____                        _____                      
+ |  __ \                      / ____|                     
+ | |  | |_ __ ___  _ __   ___| |  __  __ _ _ __ ___   ___ 
+ | |  | | '__/ _ \| '_ \ / _ \ | |_ |/ _` | '_ ` _ \ / _ \
+ | |__| | | | (_) | | | |  __/ |__| | (_| | | | | | |  __/
+ |_____/|_|  \___/|_| |_|\___|\_____|\__,_|_| |_| |_|\___|                                                                                                                                                                                                                                                                                                                                                                                                                          
+*/
+// Par Nathan Debilloëz
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -13,9 +23,6 @@ using System.Timers;
 // Bar de vie: HealthGet
 // Score: ScoreInfo
 // drone: Mplayer
-
-// Ce jeu à été à 100% inventer par @Ndebilloez sur twitter.
-// @NDebilloez est l'auteur original de ce jeux.
 
 namespace DroneGames
 {
