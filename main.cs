@@ -6,7 +6,8 @@
  | |__| | | | (_) | | | |  __/ |__| | (_| | | | | | |  __/\__ \
  |_____/|_|  \___/|_| |_|\___|\_____|\__,_|_| |_| |_|\___||___/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 */
-// Par Nathan Debilloëz
+
+// Par Nathan Debilloëz.
 
 using System;
 using System.Collections.Generic;
@@ -37,6 +38,7 @@ namespace DroneGames
           710,
           360
         };
+
         int[] posYrandom = {
           372,
           264,
