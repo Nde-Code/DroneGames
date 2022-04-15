@@ -1,14 +1,4 @@
-/*
-  _____                        _____                           
- |  __ \                      / ____|                          
- | |  | |_ __ ___  _ __   ___| |  __  __ _ _ __ ___   ___  ___ 
- | |  | | '__/ _ \| '_ \ / _ \ | |_ |/ _` | '_ ` _ \ / _ \/ __|
- | |__| | | | (_) | | | |  __/ |__| | (_| | | | | | |  __/\__ \
- |_____/|_|  \___/|_| |_|\___|\_____|\__,_|_| |_| |_|\___||___/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-*/
-
 // Par Nathan Debilloëz.
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -32,19 +22,19 @@ namespace DroneGames
         int batteryCount = 0;
 
         int[] posXRandom = {
-          700,
-          290,
-          40,
-          710,
-          360
+            700,
+            290,
+            40,
+            710,
+            360
         };
 
         int[] posYrandom = {
-          372,
-          264,
-          137,
-          124,
-          264
+            372,
+            264,
+            137,
+            124,
+            264
         };
 
         int monsterSpeed = 4;
@@ -67,9 +57,10 @@ namespace DroneGames
             injectSpawnMonsterLeft();
             direction = "unknown";
         }
+
         private static void OnTimedEvent(Object source, System.Timers.ElapsedEventArgs e) => Console.WriteLine("The Elapsed event was raised at {0}", e.SignalTime);
 
-        private void Loading(object sender, EventArgs e) => Console.WriteLine("Game is loading...");
+        private void Loading(object sender, EventArgs e) => Console.WriteLine("Le jeu est en cours de chargement...");
 
         private void isDownKey(object sender, KeyEventArgs e)
         {
@@ -109,7 +100,7 @@ namespace DroneGames
             {
                 goProj();
             }
-            if (end == true && e.KeyCode == Keys.P)
+            if (end == true && e.KeyCode == Keys.Enter)
             {
                 replay();
             }
@@ -119,8 +110,6 @@ namespace DroneGames
             speedPlayer = 8;
 
             int posRand = number.Next(0, 4);
-
-            Console.WriteLine($"Les points aléatoires sont en {posXRandom[posRand]} et {posYrandom[posRand]}.");
 
             int posChoiceX = posXRandom[posRand];
             int posChoiceY = posYrandom[posRand];
