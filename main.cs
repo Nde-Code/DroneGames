@@ -165,7 +165,9 @@ namespace DroneGames
         {
             if (direction == "unknown")
             {
-                PlayerPv -= 5;
+                PlayerPv -= 10;
+                scoreCounter -= 5;
+                Mplayer.Location = new Point(478, 490);
             }
         }
 

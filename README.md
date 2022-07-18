@@ -17,7 +17,7 @@ Votre antivirus va détecter le jeu comme malveillant car c'est un ".exe" non si
 
 ## Régles, But et Contrôl:
 
-Le but du jeu est simple, tuer tous les petits monstres avant qu'il ne travers l'arène, sinon vous perdez des points. Lorsque vous tirez, vous perdez de la batterie, et vous devez aller en rechercher à un endroit aléatoire sur les blocs gris, sans les toucher sinon vous perdez aussi des vies, et vous êtes téléporté au centre. De plus, si vous touchez des petits monstres, vous perdez également des vies. Une fois que vous n'avez plus de vies, la partie s'arrête, et vous devez appuyer sur la touche "Entrer" pour relancer le jeu. Pour monter, appuyez la le flèche vers le haut de votre clavier, pour descendre, sur la flèche du bas, pour aller à gauche, appuyez sur la flèche vers la gauche, et pour aller à droite, appuyez sur la flèche vers la droite. Vous devez être mobile sinon vous perdez également des vies. 
+Le but du jeu est simple, tuer tous les petits monstres avant qu'il ne travers l'arène, sinon vous perdez des points. Lorsque vous tirez, vous perdez de la batterie, et vous devez aller en rechercher à un endroit aléatoire sur les blocs gris, sans les toucher sinon vous perdez aussi des vies, et vous êtes téléporté au centre. De plus, si vous touchez des petits monstres, vous perdez également des vies. Une fois que vous n'avez plus de vies, la partie s'arrête, et vous devez appuyer sur la touche "Entrer" pour relancer le jeu. Pour monter, appuyez la le flèche vers le haut de votre clavier, pour descendre, sur la flèche du bas, pour aller à gauche, appuyez sur la flèche vers la gauche, et pour aller à droite, appuyez sur la flèche vers la droite. Vous devez être mobile sinon vous perdez également des vies mais aussi du score et vous êtes téléporté au centre de la carte. 
 
 ## Informations sur les graphismes:
  
@@ -43,6 +43,10 @@ Les images que j'ai utilisées ne viennent pas toutes de moi, mis appart l'herbe
  
 
 - La météorite par DinosoftLabs: https://www.flaticon.com/free-icon/rock_3413211?term=rock&page=1&position=21&page=1&position=21&related_id=3413211&origin=search
+
+
+
+- Mon Favicon est fait avec Logomakr: https://logomakr.com/
 
 ## Notes:
 
